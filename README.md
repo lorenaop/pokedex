@@ -32,5 +32,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Pokedex é uma enciclopédia virtual que agrupa todas as espécies de pokémos.
 
-- [Visite o projeto online](https://lorenaop.github.io/pokedex/)
+- [Visite o projeto online](https://github.com/lorenaop/pokedex.git)
 
