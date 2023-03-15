@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Pokedex </h1>
 
 <p align="center">
 A pokedex é um site que vem com o intuito de agrupar todas as espécies de pokémos, se tornando basicamente como uma enciclopédia virtual! <br/>
@@ -32,5 +32,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Pokedex é uma enciclopédia virtual que agrupa todas as espécies de pokémos.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://lorenaop.github.io/pokedex/)
 
